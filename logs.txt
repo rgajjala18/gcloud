@@ -1,21 +1,21 @@
 LEVEL  NAME     EXECUTION_ID  TIME_UTC                 LOG
-       process  l0izywkfiyxe  2020-10-18 18:44:24.569  Face joy: VERY_UNLIKELY
-D      process  l0izywkfiyxe  2020-10-18 18:44:25.649  Function execution took 2057 ms, finished with status: 'ok'
-D      process  0tg2sczx8kzr  2020-10-18 18:49:56.232  Function execution started
-       process  0tg2sczx8kzr  2020-10-18 18:49:57.548  [2020-10-18 18:49:57 +0000] [1] [INFO] Starting gunicorn 20.0.4
-       process  0tg2sczx8kzr  2020-10-18 18:49:57.552  [2020-10-18 18:49:57 +0000] [1] [INFO] Listening at: http://0.0.0.0:8080 (1)
-       process  0tg2sczx8kzr  2020-10-18 18:49:57.553  [2020-10-18 18:49:57 +0000] [1] [INFO] Using worker: threads
-       process  0tg2sczx8kzr  2020-10-18 18:49:58.183  [2020-10-18 18:49:58 +0000] [9] [INFO] Booting worker with pid: 9
-       process  0tg2sczx8kzr  2020-10-18 18:49:59.552  ==============================
-       process  0tg2sczx8kzr  2020-10-18 18:49:59.552  File: test_image.png
-       process  0tg2sczx8kzr  2020-10-18 18:49:59.554  Face surprised: VERY_LIKELY
-       process  0tg2sczx8kzr  2020-10-18 18:49:59.554  Face anger: VERY_UNLIKELY
-       process  0tg2sczx8kzr  2020-10-18 18:49:59.554  Face joy: VERY_UNLIKELY
-D      process  0tg2sczx8kzr  2020-10-18 18:50:00.632  Function execution took 4402 ms, finished with status: 'ok'
-D      process  1t5ypqj2mi6u  2020-10-18 19:17:06.738  Function execution started
-       process  1t5ypqj2mi6u  2020-10-18 19:17:07.959  ==============================
-       process  1t5ypqj2mi6u  2020-10-18 19:17:07.959  File: test_image.png
-       process  1t5ypqj2mi6u  2020-10-18 19:17:07.960  Face surprised: VERY_UNLIKELY
-       process  1t5ypqj2mi6u  2020-10-18 19:17:07.960  Face anger: UNLIKELY
-       process  1t5ypqj2mi6u  2020-10-18 19:17:07.960  Face joy: VERY_LIKELY
-D      process  1t5ypqj2mi6u  2020-10-18 19:17:09.138  Function execution took 2401 ms, finished with status: 'ok'
+       process  0tg2rp7flj8a  2020-10-18 21:35:03.863  ==============================
+       process  0tg2rp7flj8a  2020-10-18 21:35:03.863  File: test_image.png
+       process  0tg2rp7flj8a  2020-10-18 21:35:03.863  Face surprised: VERY_UNLIKELY
+       process  0tg2rp7flj8a  2020-10-18 21:35:03.863  Face anger: UNLIKELY
+       process  0tg2rp7flj8a  2020-10-18 21:35:03.863  Face joy: VERY_UNLIKELY
+D      process  0tg2rp7flj8a  2020-10-18 21:35:05.033  Function execution took 2098 ms, finished with status: 'ok'
+D      process  0tg2pf4u86l5  2020-10-18 21:38:24.362  Function execution started
+       process  0tg2pf4u86l5  2020-10-18 21:38:25.232  ==============================
+       process  0tg2pf4u86l5  2020-10-18 21:38:25.232  File: test_image.png
+       process  0tg2pf4u86l5  2020-10-18 21:38:25.233  Face surprised: VERY_UNLIKELY
+       process  0tg2pf4u86l5  2020-10-18 21:38:25.234  Face anger: VERY_UNLIKELY
+       process  0tg2pf4u86l5  2020-10-18 21:38:25.234  Face joy: VERY_LIKELY
+D      process  0tg2pf4u86l5  2020-10-18 21:38:26.233  Function execution took 1872 ms, finished with status: 'ok'
+D      process  0tg2tuysb58d  2020-10-18 21:40:59.131  Function execution started
+       process  0tg2tuysb58d  2020-10-18 21:41:00.030  ==============================
+       process  0tg2tuysb58d  2020-10-18 21:41:00.031  File: test_image.png
+       process  0tg2tuysb58d  2020-10-18 21:41:00.031  Face surprised: VERY_UNLIKELY
+       process  0tg2tuysb58d  2020-10-18 21:41:00.031  Face anger: VERY_UNLIKELY
+       process  0tg2tuysb58d  2020-10-18 21:41:00.031  Face joy: VERY_LIKELY
+D      process  0tg2tuysb58d  2020-10-18 21:41:00.659  Function execution took 1529 ms, finished with status: 'ok'
